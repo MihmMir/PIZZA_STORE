@@ -1,6 +1,7 @@
 PIZZA MARGHERITA   mozzarella,sos                   14,00 RON
 PIZZA Alila        mozzarella, piep pui, masline    17,50 RON
 PIZZA HAWAIANA     MOZZARELLA, SUNCA, ANANAS        16,00 RON
+<<<<<<< HEAD:pizzeriaAllila.txt
 PIZZA PROSCIUTTO   MOZZARELLA, PROSCIUTTO           17,40 RON
 PIZZA COPII        MOZZARELLA, ROSII,MASLINE         8,00 RON
 PIZZA VEGANA       CIUPERCI, ROSII,MASLINE          18,00 RON
@@ -8,3 +9,6 @@ PIZZA VEGANA       CIUPERCI, ROSII,MASLINE          18,00 RON
 
 
 This is only a trial version!
+=======
+PIZZA PROSCIUTTO   MOZZARELLA, PROSCIUTTO           17,40 RON
+>>>>>>> parent of 4e54003... Added information on Pizza copii:pizzameniu.txt
