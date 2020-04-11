@@ -1,0 +1,4 @@
+PIZZA MARGHERITA   mozzarella,sos                   14,00 RON
+PIZZA Alila        mozzarella, piep pui, masline    17,50 RON
+PIZZA HAWAIANA     MOZZARELLA, SUNCA, ANANAS        16,00 RON
+PIZZA PROSCIUTTO   MOZZARELLA, PROSCIUTTO           17,40 RON
